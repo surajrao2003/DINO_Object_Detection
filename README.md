@@ -4,6 +4,7 @@ Task - Training the DINO object detection model on a pedestrian dataset consisti
 
 dataset link - https://drive.google.com/drive/folders/1DCpmo919b7OrAng9clEbiMHjO3D0hyoa?usp=sharing
 
+For visualizing the bounding boxes on 200 images in the dataset using json file, I used this script 'Visualizing_bounding_boxes.ipynb' uploaded in this repo.
 
 Steps to Run - 
 
