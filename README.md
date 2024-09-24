@@ -57,7 +57,7 @@ Steps to Run -
 
 
 
-Link to Report - 
+Link to Report - https://docs.google.com/document/d/1zpFXE16yeAhsSHQSMBEzYzjQP-PoMekFxa7yM_eC5q0/edit?usp=sharing
 
 Link to pretrained model - https://drive.google.com/file/d/1eeAHgu-fzp28PGdIjeLe-pzGPMG2r2G_/view?usp=drive_link
 
