@@ -35,7 +35,7 @@ Steps to Run -
     If you face some dependency errors or errors in repo files, it is due to version mismatch. Simply try changing the version (or) making the necessary changes as mentioned in the error. 
 
 8) Finetuning the pretrained model on our custom dataset. Simply execute the script and the model will train for 12 epochs.
-   Link to finetuned model weight - https://drive.google.com/file/d/1-YpVIYmUiHk25c67HrftfxXUbn1hhaRD/view?usp=drive_link
+   Link to finetuned model weight - https://drive.google.com/file/d/1tZPCWB_5BGTknm_Phvys9pufLIDohEJ2/view?usp=sharing
 
    ```
    !bash /content/DINO/scripts/DINO_train.sh /path/to/your/COCODIR \
@@ -61,7 +61,7 @@ Link to Report - https://docs.google.com/document/d/1zpFXE16yeAhsSHQSMBEzYzjQP-P
 
 Link to pretrained model - https://drive.google.com/file/d/1eeAHgu-fzp28PGdIjeLe-pzGPMG2r2G_/view?usp=drive_link
 
-Link to finetuned model - https://drive.google.com/file/d/1-YpVIYmUiHk25c67HrftfxXUbn1hhaRD/view?usp=drive_link
+Link to finetuned model - [https://drive.google.com/file/d/1-YpVIYmUiHk25c67HrftfxXUbn1hhaRD/view?usp=drive_link](https://drive.google.com/file/d/1tZPCWB_5BGTknm_Phvys9pufLIDohEJ2/view?usp=sharing)
 
 Link to dataset - https://drive.google.com/drive/folders/1DCpmo919b7OrAng9clEbiMHjO3D0hyoa?usp=sharing
 
